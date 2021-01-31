@@ -1,3 +1,42 @@
-/* 
-    General Styles
-*/
+body{
+    background: white;
+    color: white;
+}
+
+.card-columns{
+    margin: 10px;
+}
+
+.card-text{
+    color: black;
+}
+
+.card{
+    margin: 5px;
+}
+
+h3, p{
+    color: black;
+    text-align: left;
+}
+
+h2{
+    color: red;
+    text-align: left;
+    margin-left: 5px;
+}
+
+h6{
+    color: black;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.descriptionColumns{
+ border-right: 1px solid white;   
+ height: 300px;
+}
+.character{
+    background: black;
+    overflow-x: auto;
+    white-space: nowrap;
+}
